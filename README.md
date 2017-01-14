@@ -1,2 +1,2 @@
-# froggy
-A game I created with my friend for an AP computer science class.
+# ribbit
+A game created with a friend in which the player must keep the frog alive by collecting flies and hopping on lilypads.
