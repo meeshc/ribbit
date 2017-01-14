@@ -1,0 +1,8 @@
+import java.awt.Color;
+
+public class Flies extends Pond{
+	private int speed;
+	public Flies () {
+		super((int)(Math.random() * 770), (int)(Math.random()*547), 7, 7, Math.random()*3 +1, Math.random()*3+1, Color.BLACK);
+	}
+}
